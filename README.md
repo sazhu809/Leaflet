@@ -10,7 +10,7 @@
     
     - When you click a dataset (such as "All Earthquakes from the Past 7 Days"), you will be given a JSON representation of that data. Use the URL of this JSON to pull in the data for the visualization. The following image is a sampling of earthquake data in JSON format:
     
-![image](https://github.com/sazhu809/Challenge-15-Leaflet/main/Images/1-Logo.png )  
+![image](https://github.com/sazhu809/Challenge-15-Leaflet/blob/main/Images/1-Logo.png)
    
     
  2. Import and visualize the data by doing the following:
